@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <h1>Kanban Optimizer</h1>
+        <nav>
+            <a asp-controller="Home" asp-action="Index">Dashboard</a> |
+            <a asp-controller="Home" asp-action="About">Boards</a> |
+            <a asp-controller="Home" asp-action="Contact">Search</a>
+        </nav>
+        <hr />
+    </header>
+
+    <main role="main">
+        @RenderBody()
+    </main>
+
+    <footer>
+        <hr />
+        <p>&copy; @DateTime.Now.Year - Golden Ticket Engineering LLC - Version 25.06.13</p>
+    </footer>
+</body>
+</html>
