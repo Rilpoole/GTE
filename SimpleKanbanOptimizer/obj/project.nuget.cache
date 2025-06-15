@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "otgIyuLAdD4=",
+  "dgSpecHash": "MCfT5gxEBcc=",
   "success": true,
   "projectFilePath": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\SimpleKanbanOptimizer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\bootstrap\\5.3.6\\bootstrap.5.3.6.nupkg.sha512"
+  ],
   "logs": []
 }

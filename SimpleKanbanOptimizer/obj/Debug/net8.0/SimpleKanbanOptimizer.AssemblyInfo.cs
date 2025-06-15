@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleKanbanOptimizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a563944124d9673a01ce0f1546d53cfeacba69c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4d6e12d63e78d930021eb7269a5806a32a1327")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleKanbanOptimizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleKanbanOptimizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,39 +1,4 @@
 ﻿@{
-    ViewData["Title"] = "Dashboard";
+    ViewData["Title"] = "Home";
     Layout = "_Layout"; // optional: uses the shared layout if one exists
 }
-
-<h2>@ViewData["Title"]</h2>
-
-<table class="table">
-    <thead>
-        <tr>
-            <th>Board</th>
-            <th>Pending</th>
-            <th>In Progress</th>
-            <th>Issue</th>
-            <th>Trend</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href = "/Board/{upstairs}">Upstairs</a>
-            </td>
-            <td>23</td>
-            <td>5</td>
-            <td>8</td>
-            <td>Speeding Up</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="/Board/{downstairs}">Downstairs</a>
-            </td>
-            <td>106</td>
-            <td>20</td>
-            <td>0</td>
-            <td>Slowing Down</td>
-        </tr>
-    </tbody>
-</table>
-

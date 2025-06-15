@@ -10,4 +10,8 @@
     <Folder Include="DAL\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.6" />
+  </ItemGroup>
+
 </Project>

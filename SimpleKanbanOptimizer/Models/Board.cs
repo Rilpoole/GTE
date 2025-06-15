@@ -9,7 +9,8 @@ namespace SimpleKanbanOptimizer.Models
         public string Name { get; set; }
         public string Description { get; set; }
         public List<Card> Draft {  get; set; }
-        public List<Card> Pending { get; set; }
+        public List<Card> Unassigned { get; set; }
+        public List<Card> Assigned { get; set; }
         public List<Card> InProgress { get; set; }
         public List<Card> Complete { get; set; }
         public List<Card> Issue { get; set; }
