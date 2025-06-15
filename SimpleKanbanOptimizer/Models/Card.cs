@@ -7,16 +7,21 @@ namespace SimpleKanbanOptimizer.Models
         public string AccountUUID { get; set; }
         public string CardUUId { get; set; }
         public List<string> ReferenceIDs { get; set; }
-        public List<Board> PossibleBoards { get; set; }
         public List<Card> Children { get; set; }
         public string Contents { get; set; }
         public string State { get; set; }
         public int Priority { get; set; }
+        public int Effort { get; set; }
+        public int Points { get; set; }
         public string Due { get; set; }
-        public string Started { get; set; }
-        public string Completed { get; set; }
-        public string Duration { get; set; }
+        public string Created { get; set; }
+        public string EstDuration { get; set; }
+        public string EstStart { get; set; }
+        public string ActualStart { get; set; }
+        public string EstComplete { get; set; }
+        public string ActualComplete { get; set; }
         public List<File> Files { get; set; }
         public List<Note> Notes { get; set; }
+        public List<User> Assigneees { get; set; }
     }
 }

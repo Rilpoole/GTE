@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SimpleKanbanOptimizer/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 20:46:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimpleKanbanOptimizer/css/site.qr2ugyn3rg.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qr2ugyn3rg"},{"Name":"integrity","Value":"sha256-eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE="},{"Name":"label","Value":"_content/SimpleKanbanOptimizer/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 14 Jun 2025 20:46:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

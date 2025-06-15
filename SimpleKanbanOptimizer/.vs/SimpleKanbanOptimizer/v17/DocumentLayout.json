@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|c:\\company\\repo\\simplekanbanoptimizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805FB01A-2C4D-4415-AD20-197102ED9215}|SimpleKanbanOptimizer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,133 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "Models\\Status.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Status.cs",
-              "RelativeToolTip": "Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T04:12:03.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T03:45:02.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T03:41:17.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:03:32.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:39:13.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:24:17.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Note.cs",
-              "RelativeDocumentMoniker": "Models\\Note.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Note.cs",
-              "RelativeToolTip": "Models\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:09:56.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "File.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\File.cs",
-              "RelativeDocumentMoniker": "Models\\File.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\File.cs",
-              "RelativeToolTip": "Models\\File.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:09:45.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Board.cs",
-              "RelativeDocumentMoniker": "Models\\Board.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Board.cs",
-              "RelativeToolTip": "Models\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:09:20.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "Models\\Card.cs",
-              "ToolTip": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\Models\\Card.cs",
-              "RelativeToolTip": "Models\\Card.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:09:13.85Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,15 +1,39 @@
 ﻿@{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Dashboard";
     Layout = "_Layout"; // optional: uses the shared layout if one exists
 }
 
-<h1>@ViewData["Title"]</h1>
+<h2>@ViewData["Title"]</h2>
 
-<p>Welcome to your ASP.NET Core MVC application!</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Board</th>
+            <th>Pending</th>
+            <th>In Progress</th>
+            <th>Issue</th>
+            <th>Trend</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href = "/Board/{upstairs}">Upstairs</a>
+            </td>
+            <td>23</td>
+            <td>5</td>
+            <td>8</td>
+            <td>Speeding Up</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="/Board/{downstairs}">Downstairs</a>
+            </td>
+            <td>106</td>
+            <td>20</td>
+            <td>0</td>
+            <td>Slowing Down</td>
+        </tr>
+    </tbody>
+</table>
 
-<p>This is the default Razor view for the Home page.</p>
-
-<ul>
-    <li><a asp-controller="Home" asp-action="About">About</a></li>
-    <li><a asp-controller="Home" asp-action="Contact">Contact</a></li>
-</ul>

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleKanbanOptimizer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SimpleKanbanOptimizer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SimpleKanbanOptimizer.props",
+      "PackagePath": "build\\SimpleKanbanOptimizer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SimpleKanbanOptimizer.props",
+      "PackagePath": "buildMultiTargeting\\SimpleKanbanOptimizer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SimpleKanbanOptimizer.props",
+      "PackagePath": "buildTransitive\\SimpleKanbanOptimizer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

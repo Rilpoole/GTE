@@ -30,3 +30,4 @@ C:\Company\Repo\SimpleKanbanOptimizer\obj\Debug\net8.0\SimpleKanbanOptimizer.gen
 C:\Company\Repo\SimpleKanbanOptimizer\obj\Debug\net8.0\ref\SimpleKanbanOptimizer.dll
 C:\Company\Repo\SimpleKanbanOptimizer\obj\Debug\net8.0\SimpleKanbanOptimizer.RazorAssemblyInfo.cache
 C:\Company\Repo\SimpleKanbanOptimizer\obj\Debug\net8.0\SimpleKanbanOptimizer.RazorAssemblyInfo.cs
+C:\Company\Repo\SimpleKanbanOptimizer\bin\Debug\net8.0\SimpleKanbanOptimizer.staticwebassets.runtime.json

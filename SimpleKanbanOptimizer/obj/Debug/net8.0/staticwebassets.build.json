@@ -1,12 +1,125 @@
 {
   "Version": 1,
-  "Hash": "MABIEIzlxw9cb+sgTvhMuCTi9A4Nz71M9mY+C4LGWzE=",
+  "Hash": "YDOBui9rbm7n5VoC2O68F1II61IKJlQX35Iejwc9Ft0=",
   "Source": "SimpleKanbanOptimizer",
   "BasePath": "_content/SimpleKanbanOptimizer",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimpleKanbanOptimizer\\wwwroot",
+      "Source": "SimpleKanbanOptimizer",
+      "ContentRoot": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\",
+      "BasePath": "_content/SimpleKanbanOptimizer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\css\\site.css",
+      "SourceId": "SimpleKanbanOptimizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\",
+      "BasePath": "_content/SimpleKanbanOptimizer",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qr2ugyn3rg",
+      "Integrity": "eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qr2ugyn3rg.css",
+      "AssetFile": "C:\\Company\\Repo\\SimpleKanbanOptimizer\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 14 Jun 2025 20:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr2ugyn3rg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eo4Gbu9roPqueI3BocFM8BDEhXFLw723fS/kl2HW0rE="
+        }
+      ]
+    }
+  ]
 }
